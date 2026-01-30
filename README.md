@@ -78,6 +78,3 @@ The Power BI dashboard includes:
 Student | Aspiring Data Analyst  
 
 ---
-
-## 📌 Note
-This project is created for learning purposes and to demonstrate basic data analysis and visualization skills using Power BI.
